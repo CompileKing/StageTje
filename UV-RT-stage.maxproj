@@ -2,7 +2,7 @@
 	"name" : "UV-RT-stage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3649077226,
+	"modificationdate" : 3649254103,
 	"viewrect" : [ 25.0, 73.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -33,6 +33,11 @@
 ,
 		"externals" : 		{
 			"jit.gl.spoutsender.mxe64" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.gl.spoutreceiver.mxe64" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
