@@ -2,8 +2,8 @@
 	"name" : "UV-RT-stage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3649254103,
-	"viewrect" : [ 25.0, 73.0, 300.0, 500.0 ],
+	"modificationdate" : 3649937060,
+	"viewrect" : [ 1367.0, 307.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -28,16 +28,21 @@
 				"kind" : "model",
 				"local" : 1
 			}
+,
+			"convertedStage.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
 
 		}
 ,
 		"externals" : 		{
-			"jit.gl.spoutsender.mxe64" : 			{
+			"jit.gl.spoutreceiver.mxe64" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
 ,
-			"jit.gl.spoutreceiver.mxe64" : 			{
+			"jit.gl.spoutsender.mxe64" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
