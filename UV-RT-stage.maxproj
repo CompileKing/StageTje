@@ -2,7 +2,7 @@
 	"name" : "UV-RT-stage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3651660017,
+	"modificationdate" : 3651683690,
 	"viewrect" : [ 166.0, 290.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -38,6 +38,11 @@
 				"kind" : "model",
 				"local" : 1
 			}
+,
+			"domeMergedALL.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
 
 		}
 ,
@@ -49,6 +54,14 @@
 ,
 			"jit.gl.spoutsender.mxe64" : 			{
 				"kind" : "object",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
+			"domeMergedALL.mtl" : 			{
+				"kind" : "file",
 				"local" : 1
 			}
 
