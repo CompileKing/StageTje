@@ -2,8 +2,8 @@
 	"name" : "UV-RT-stage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3655473701,
-	"viewrect" : [ 974.0, 267.0, 300.0, 500.0 ],
+	"modificationdate" : 3655737553,
+	"viewrect" : [ 537.0, 344.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"oldCameraSystem.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
