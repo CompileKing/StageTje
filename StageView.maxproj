@@ -1,8 +1,8 @@
 {
-	"name" : "UV-RT-stage",
+	"name" : "StageView",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3658392577,
+	"modificationdate" : 3658415941,
 	"viewrect" : [ 537.0, 344.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,7 +10,7 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"UV-RT-stage.maxpat" : 			{
+			"StageView.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
