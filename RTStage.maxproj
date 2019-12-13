@@ -1,8 +1,8 @@
 {
-	"name" : "StageView",
+	"name" : "RTStage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3658415941,
+	"modificationdate" : 3658933827,
 	"viewrect" : [ 537.0, 344.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,7 +10,7 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"StageView.maxpat" : 			{
+			"RTStage.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
@@ -70,5 +70,5 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 1
 }
