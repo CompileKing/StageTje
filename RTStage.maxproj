@@ -2,7 +2,7 @@
 	"name" : "RTStage",
 	"version" : 1,
 	"creationdate" : 3649070906,
-	"modificationdate" : 3658933827,
+	"modificationdate" : 3661508293,
 	"viewrect" : [ 537.0, 344.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -42,6 +42,16 @@
 		}
 ,
 		"externals" : 		{
+			"jit.gl.syphonclient.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.gl.syphonserver.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
 			"jit.gl.spoutreceiver.mxe64" : 			{
 				"kind" : "object",
 				"local" : 1
